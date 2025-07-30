@@ -1,0 +1,14 @@
+C:\Users\Palo\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.exe
+C:\Users\Palo\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.deps.json
+C:\Users\Palo\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.runtimeconfig.json
+C:\Users\Palo\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.dll
+C:\Users\Palo\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.pdb
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfo.cs
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.dll
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\refint\GradeCalculatorApp.dll
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.pdb
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.genruntimeconfig.cache
+C:\Users\Palo\GradeCalculatorApp\obj\Debug\net9.0\ref\GradeCalculatorApp.dll
