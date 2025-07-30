@@ -1,0 +1,44 @@
+Console.Write("Side 1: ");
+        double side1 = double.Parse(Console.ReadLine());
+
+        // Read input for side 2
+        Console.Write("Side 2: ");
+        double side2 = double.Parse(Console.ReadLine());
+
+        // Read input for side 3
+        Console.Write("Side 3: ");
+        double side3 = double.Parse(Console.ReadLine());
+=======
+        double side1 = ReadSide("Side 1: ");
+        double side2 = ReadSide("Side 2: ");
+        double side3 = ReadSide("Side 3: ");
+>>>>>>> REPLACE
+
+<<<<<<< SEARCH
+        // Pause the console before exiting
+        Console.WriteLine("Press any key to exit...");
+        Console.ReadKey();
+    }
+}
+=======
+        // Pause the console before exiting
+        Console.WriteLine("Press any key to exit...");
+        Console.ReadKey();
+    }
+
+    // Helper method to read and validate a side length from the user
+    static double ReadSide(string prompt)
+    {
+        double side;
+        while (true)
+        {
+            Console.Write(prompt);
+            string? input = Console.ReadLine();
+            if (!string.IsNullOrEmpty(input) && double.TryParse(input, out side) && side > 0)
+            {
+                return side;
+            }
+            Console.WriteLine("Invalid input. Please enter a positive number.");
+        }
+    }
+}
